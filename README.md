@@ -5,3 +5,4 @@
 Para ejecutar el sistena, debes poner 
 
 "npm install react"
+Sistea de registro 2
